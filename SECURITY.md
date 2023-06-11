@@ -1,8 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-untested
-v1.00
+
 
 | Version | Supported          |
 | ------- | ------------------ |
